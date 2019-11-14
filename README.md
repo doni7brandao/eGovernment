@@ -18,8 +18,8 @@ Veja aqui [LICENSE.txt](LICENSE.txt) o licenciamento completo.
   - Centro Educacional NukeViet: http://nukeviet.edu.vn
   - NukeViet SaaS: http://nukeviet.com (testing)
 
-## Community
-  - Fanpage Facebook: http://facebook.com/nukeviet
+## Comunidades
+  - Fanpage do Facebook: http://facebook.com/nukeviet
   - Grupo NukeViet no Facebook: https://www.facebook.com/groups/nukeviet/
   - http://twitter.com/nukeviet
   - https://groups.google.com/forum/?fromgroups#!forum/nukeviet
