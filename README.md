@@ -1,38 +1,38 @@
-# Introduction about NukeViet eGovernment
+# Introdução sobre o eGovernment NukeViet
 
-NukeViet eGovernment là phiên bản NukeViet dành cho các cơ quan nhà nước và chính quyền địa phương, được xây dựng dựa trên nền tảng phần mềm nguồn mở NukeViet - một phần mềm nguồn mở thế hệ mới do người Việt phát triển. NukeViet eGovernment cho phép xây dựng các cổng thông tin (Portal) cho UBND các tỉnh/ thành phố và/ hoặc các quận/ huyện tích hợp website xã/ phường. NukeViet đã được trao giải Nhân tài đất Việt 2011, được Bộ TT&TT Quy định ưu tiên sử dụng trong cơ quan, tổ chức nhà nước tại thông tư 20/2014/TT-BTTTT.
+O eGovernment NukeViet é a versão do NukeViet para órgãos estaduais e autoridades locais do governo do Vietnam, construída sobre a plataforma de código aberto - um software de código aberto de nova geração desenvolvido por vietnamitas. O NukeViet eGovernment permite a construção de portais (Portal) para Comitês Populares de províncias e/ou distritos para integrar o site da comunidade/ala. A NukeViet recebeu o Vietnam Talent Award 2011, com o Ministério da Informação e Comunicações priorizando o uso em agências e organizações estatais na Circular 202014/TT-BTTTT.
 
-## Licensing
-NukeViet is released under GNU/GPL version 2 or any later version.
+## Licenciamento
+O NukeViet é lançado sob a GNU/GPL versão 2 ou qualquer versão posterior.
 
-See [LICENSE.txt](LICENSE.txt) for the full license.
+Veja aqui [LICENSE.txt](LICENSE.txt) o licenciamento completo.
 
-## NukeViet official website
-  - Home page - link to all resources NukeViet: http://nukeviet.vn (select Vietnamese to have the latest information).
-  - NukeViet official Coding: http://code.nukeviet.vn
-  - Theme, Module and more add-ons for NukeViet: http://nukeviet.vn/vi/store/
-  - NukeViet official Forum http://forum.nukeviet.vn/
-  - Open Document Library for NukeViet: http://wiki.nukeviet.vn/
-  - NukeViet Translate Center: http://translate.nukeviet.vn/
-  - NukeViet partner: http://nukeviet.vn/vi/partner/
-  - NukeViet Education Center: http://nukeviet.edu.vn
+## Sites Oficiais da NukeViet
+  - Home - link para todos os recursos NukeViet: http://nukeviet.vn (selecione Vietnamita para ter as informações mais recentes).
+  - Codificação oficial da NukeViet: http://code.nukeviet.vn
+  - Tema, módulo e mais complementos para o NukeViet: http://nukeviet.vn/vi/store/
+  - Fórum oficial do NukeViet http://forum.nukeviet.vn/
+  - Abrir biblioteca de documentos para NukeViet: http://wiki.nukeviet.vn/
+  - Núcleo de Traduções Nukeviet: http://translate.nukeviet.vn/
+  - Parceiro NukeViet: http://nukeviet.vn/vi/partner/
+  - Centro Educacional NukeViet: http://nukeviet.edu.vn
   - NukeViet SaaS: http://nukeviet.com (testing)
 
 ## Community
-  - NukeViet Fanpage: http://facebook.com/nukeviet
-  - NukeViet group on FB: https://www.facebook.com/groups/nukeviet/
+  - Fanpage Facebook: http://facebook.com/nukeviet
+  - Grupo NukeViet no Facebook: https://www.facebook.com/groups/nukeviet/
   - http://twitter.com/nukeviet
   - https://groups.google.com/forum/?fromgroups#!forum/nukeviet
   - http://google.com/+nukeviet
 
 
 
-## Nukeviet Centre for Research and Development
+## Centro Nukeviet para Recursos e Desenvolvimento
 VIETNAM OPEN SOURCE DEVELOPMENT JOINT STOCK COMPANY (VINADES.,JSC)
 
-Website: http://vinades.vn | http://nukeviet.vn | http://nukeviet.com
+Sites: http://vinades.vn | http://nukeviet.vn | http://nukeviet.com
 
-Head Office:
+Escritório Central:
   - Room 1706 - CT2 Nang Huong Building, 583 Nguyen Trai st, Ha Dong dist, Hanoi, Vietnam.
-  - Phone: +84-24-85872007, Fax: +84-24-35500914, Email: contact (at) vinades.vn
+  - Telefone: +84-24-85872007, Fax: +84-24-35500914, Email: contato (at) vinades.vn
   
